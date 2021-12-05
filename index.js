@@ -18,10 +18,12 @@ app.get("/uptime", (req, res) => {
 const users = require("./models/users");
 const talant = require("./models/talants");
 const posts = require("./models/posts");
+const main = require("./models/main");
 
 app.use("/users", users);
 app.use("/talant", auth, talant);
 app.use("/posts", auth, posts);
+app.use("/main", main);
 
 app.use((req, res) => {
   res.send({ status: 404, message: "Not found" });

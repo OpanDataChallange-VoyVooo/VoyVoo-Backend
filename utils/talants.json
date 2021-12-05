@@ -1,0 +1,27 @@
+{
+  "xalqArtisti": [
+    {
+      "id": 3,
+      "fullName": "Yulduz Usmonova",
+      "photo": "http://localhost:7071/usmonova.jpg",
+      "price": "1000000"
+    },
+    {
+      "id": 8,
+      "fullName": "Gulsanam Mamazoitova",
+      "photo": "http://localhost:7071/mamazoitova.jpg",
+      "price": "1000000"
+    }
+  ],
+  "xizmatArtist": [
+    { "id": 1, "name": "Abdulla Shomag'rupov", "photo": "http://localhost:7071/images/abdulla.jpg" },
+    { "id": 2, "name": "Abdurashid Yo'ldoshev", "photo": "http://localhost:7071/images/andurashid.jpg" },
+    { "id": 3, "name": "Avaz Olimov", "photo": "http://localhost:7071/images/avaz.jpg" },
+    { "id": 4, "name": "Alisher Turdiyev", "photo": "http://localhost:7071/images/alisher.jpg" },
+    { "id": 9, "name": "Ziyoda Qobulova", "photo": "http://localhost:7071/images/ziyoda.jpg" },
+    { "id": 12, "name": "Lola Ahmedova", "photo": "http://localhost:7071/images/ahmedova.jpg" },
+    { "id": 15, "name": "Rayxona G'aniyeva", "photo": "http://localhost:7071/images/rayhon.jpg" },
+    { "id": 21, "name": "Ulug'bek Rahmatullayev", "photo": "http://localhost:7071/images/rahmatullaev.jpg" },
+    { "id": 23, "name": "Yulduz Turdiyeva", "photo": "http://localhost:7071/images/turdieva.jpg" }
+  ]
+}
